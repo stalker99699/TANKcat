@@ -1,9 +1,13 @@
+> 🤖 Этот проект на 100% сгенерирован с помощью ИИ. Простите меня. / 🤖 This project is 100% AI-generated. Forgive me.
+
 # TANKcat 🎮
 
 **Maze tank battle game** — full 360° rotation, smart AI, ricochet physics, slow-motion.
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![License](https://img.shields.io/badge/license-GPL--3-red)
+
+![screenshot](screenshot.png)
 
 ## Controls
 
@@ -37,6 +41,12 @@
 pip install pygame
 python tanket.py
 ```
+
+## Multiplayer
+
+> 🚧 В разработке / In progress
+
+Планируется: кооператив и PvP по сети.
 
 ## License
 
