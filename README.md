@@ -1,6 +1,5 @@
-> 🤖 Этот проект на 100% сгенерирован с помощью ИИ. Простите меня. / 🤖 This project is 100% AI-generated. Forgive me.
-
 # TANKcat 🎮
+> 🤖 Этот проект на 100% сгенерирован с помощью ИИ. Простите меня. / 🤖 This project is 100% AI-generated. Forgive me.
 
 **Maze tank battle game** — full 360° rotation, smart AI, ricochet physics, slow-motion.
 
